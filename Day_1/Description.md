@@ -60,40 +60,40 @@ to declare you are using standart input and output.
 
 ## Java
 
-`class HelloWorld`
-`{`
-`    public static void main(String[] args)`
-    `{`
-`        System.out.println("Hello, World!");`
-`    }`
-`}`
+class HelloWorld
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, World!");
+    }
+}
 
 ## C
 
-`#include <stdio.h>`
-`#include <stdlib.h>`
+#include <stdio.h>
+#include <stdlib.h>
 
-`int main()`
-`{`
-`    printf("Hello, World");`
+int main()
+{
+    printf("Hello, World");
 
-`   system("pause");`
-`   return 0;`
-`}`
+   system("pause");
+   return 0;
+}
 
 
 
 ## C++
 
-`#include <iostream>`
-`#include <stdlib.h>`
+#include <iostream>
+#include <stdlib.h>
 
-`using namespace std;`
+using namespace std;
 
-`int main()`
-`{`
-`    cout<<"Hello, World<<endl;`
+int main()
+{
+    cout<<"Hello, World<<endl;
 
-`   system("pause");`
-`   return 0;`
-`}`
+   system("pause");
+   return 0;
+}
